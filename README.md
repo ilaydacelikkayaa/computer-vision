@@ -12,6 +12,9 @@ Bu projede, webcam görüntüsü başlangıçta siyah-beyaz olarak gösterilir v
 - Başlangıçta siyah-beyaz görüntü
 - 3 saniye sonra yüz algılama yapılır
 - Yüz kısmı renkli kalır, geri kalan her şey siyah-beyaz olur
+  ![Ekran görüntüsü 2025-05-03 174311](https://github.com/user-attachments/assets/17236a4b-8917-4589-b63c-a96e38b0b640)
+  ![Ekran görüntüsü 2025-05-03 174330](https://github.com/user-attachments/assets/da37dede-3dd0-4adf-b079-5402d2becbdc)
+
 
 ### 2. 5 Saniye Sonra Siyah-Beyaz Mod Projesi
 
